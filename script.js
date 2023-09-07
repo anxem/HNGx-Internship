@@ -22,4 +22,4 @@ const myTrack = document.querySelector('[data-testid="myTrack"]');
 myTrack.textContent = "Frontend";
 
 const githubURL = document.querySelector('[data-testid="githubURL"]');
-githubURL.href = "https://github.com/anxem/your-repository";
+githubURL.href = "https://github.com/anxem/HNGx-Internship.git";
